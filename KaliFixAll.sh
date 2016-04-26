@@ -34,12 +34,13 @@ echo ""
 echo " #~ Sources.list File Updated Successfully [DONE %100]"
 echo ""
 echo ""
-echo ""
+echo " #~ Now Fixing The Common Apps Problems . Please Wait .. "
 echo ""
 echo "=================================================="
 echo ""
 echo "#~ Fixing VLC Player , Make it Open as root."
 `sed -i 's/geteuid/getppid/' /usr/bin/vlc`
+sleep 2
 echo "[DONE %100]"
 echo "=================================================="
 echo ""
@@ -48,12 +49,14 @@ init_file=/usr/share/wireshark/init.lua
 `sed -i "39s/.*/if running_user then/" $init_file`
 `/usr/sbin/groupadd wireshark`
 `/usr/sbin/adduser root wireshark`
+sleep 2
 echo "[DONE %100]"
 echo "=================================================="
 echo ""
 echo "#~ Fixing Network Manager ( Device Not Managed ) Problem ."
 conf_file=/etc/NetworkManager/NetworkManager.conf
 `sed -i "5s/.*/managed=true/" $conf_file`
+sleep 2
 echo "[DONE %100]"
 echo "=================================================="
 echo ""
@@ -62,6 +65,7 @@ beef_file=/usr/share/beef-xss/config.yaml
 `sed -i "168s/.*/            enable: false/" $beef_file`
 beef2_file=/etc/beef-xss/config.yaml
 `sed -i "168s/.*/            enable: false/" $beef2_file`
+sleep 2
 echo "[DONE %100]"
 echo "=================================================="
 echo ""
