@@ -15,8 +15,11 @@ To Apply The Changes and To Make Sure Everything is Working Fine .
 
 # Problems Fixed :~ 
 1) VLC Working as root .
+
 2) Wireshark Problem ( init.lua ) file .
+
 3) Network Manager ( Device Not Managed ) Problem .
+
 4) BeeF Framwork Panel Not Loading .
 
 And More Problems Will Be Included if There were any .. 
