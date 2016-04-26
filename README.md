@@ -22,7 +22,7 @@ To Apply The Changes and To Make Sure Everything is Working Fine .
 
 4) BeeF Framwork Panel Not Loading .
 
-And More Problems Will Be Included if There were any .. 
+And More Problem's Solution Will Be Included if There were any .. 
 
-Best Regards #LyJoker ~ Libyan Hackers .
+Best Regards # LyJoker ~ Libyan Hackers .
 
