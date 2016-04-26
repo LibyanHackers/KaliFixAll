@@ -70,7 +70,9 @@ echo "[DONE %100]"
 echo "=================================================="
 echo ""
 echo " Done Fixing All The Bugs :D , Enjoy N00bs ^_^ :P "
-
+echo ""
+echo " Please Don't Forget To Read The README File for Further Instructions ."
+echo ""
 
 
 
