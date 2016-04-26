@@ -8,6 +8,8 @@ After Executing The Script , Use The Following Command In Terminal
 
 #~ apt-get upgrade && apt-get dist-upgrade
 
+This Will Upgrade All The Existing Programs and Tools and Install System Updates 
+Using The New Added Repositories From The Script ^_* 
 
 # AND .. 
 After Downloading And Installing All The New Packages , Restart The Machine (Your PC) 
