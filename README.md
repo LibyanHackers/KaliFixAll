@@ -7,6 +7,7 @@ Kali Linux Bugs &amp; Problems Automatic Fix Script
 Simple Bash Script >_  
 
 Chmod +x KaliFixAll.sh 
+
 ./KaliFixAll.sh 
 
 # AND .. 
