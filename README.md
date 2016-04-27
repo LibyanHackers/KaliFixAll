@@ -4,12 +4,10 @@ Kali Linux Bugs &amp; Problems Automatic Fix Script
 
 # Instructions 
 
-After Executing The Script , Use The Following Command In Terminal 
+Simple Bash Script >_  
 
-#~ apt-get upgrade && apt-get dist-upgrade
-
-This Will Upgrade All The Existing Programs and Tools and Install System Updates 
-Using The New Added Repositories From The Script ^_* 
+Chmod +x KaliFixAll.sh 
+./KaliFixAll.sh 
 
 # AND .. 
 After Downloading And Installing All The New Packages , Restart The Machine (Your PC) 
