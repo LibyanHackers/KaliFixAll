@@ -15,13 +15,15 @@ After Downloading And Installing All The New Packages , Restart The Machine (You
 To Apply The Changes and To Make Sure Everything is Working Fine .
 
 # Problems Fixed :~ 
-1) VLC Working as root .
+1) Updating Distribution Repositories .
 
-2) Wireshark Problem ( init.lua ) file .
+2) VLC Working as root .
 
-3) Network Manager ( Device Not Managed ) Problem .
+3) Wireshark Problem ( init.lua ) file .
 
-4) BeeF Framwork Panel Not Loading .
+4) Network Manager ( Device Not Managed ) Problem .
+
+5) BeeF Framwork Panel Not Loading .
 
 And More Problem's Solution Will Be Included if There were any .. 
 
